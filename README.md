@@ -60,6 +60,32 @@ Creating intelligent Telegram bots for business automation, chat services, and p
 
 ---
 
+### 🎯 Live Projects
+
+<div align="center">
+
+#### 🤖 University Schedule Bot
+A comprehensive Telegram bot developed for my university, providing students and faculty with real-time schedule information, notifications, and academic resources.
+
+<p>
+  <a href="https://t.me/dvgupsSchedule_bot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Bot-@dvgupsSchedule__bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="University Schedule Bot"/>
+  </a>
+</p>
+
+**Features:**
+- 📅 Real-time class schedule
+- 🔔 Automated notifications
+- 👥 Multi-user support
+- 🎯 University-specific integration
+- ⚡ Fast and reliable performance
+
+*This bot serves the entire university community, helping students and staff stay organized and informed about their academic schedules.*
+
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -82,10 +108,13 @@ Creating intelligent Telegram bots for business automation, chat services, and p
 <div align="center">
 
 <p>
+  <a href="https://dushafullstack.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://t.me/Dusha01" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:Ia12Kotik@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Dusha01">
