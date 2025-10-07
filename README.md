@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hello, I'm Anrew</h1>
+<h1 align="center">Hello, I'm Andrew</h1>
 <h3 align="center">Web Developer and Telegram Bot Developer from Russia</h3>
 
 <p align="center">
