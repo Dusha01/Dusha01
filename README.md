@@ -164,10 +164,6 @@ A comprehensive Telegram bot serving my university community with real-time sche
   
   ---
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer&animation=fadeIn" />
-  
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-  
 </div>
 
 ---
