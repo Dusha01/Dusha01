@@ -184,14 +184,11 @@ A comprehensive Telegram bot serving my university community with real-time sche
 
 <div align="center">
 
-### 🧩 Contribution Graph
-
-<a href="https://github.com/Dusha01">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dusha01&theme=github-compact&bg_color=0D1117&hide_border=true&color=7C3AED&line=7C3AED&point=7C3AED" width="90%" alt="Contribution Graph" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer&animation=fadeIn" />
 
 <p>⭐️ Feel free to star repositories if you find them interesting!</p>
 
 </div>
+
 
 
