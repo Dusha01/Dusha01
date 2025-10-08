@@ -180,8 +180,13 @@ A comprehensive Telegram bot serving my university community with real-time sche
 🤖 Telegram Bots      ████████ 40%
 🐳 DevOps & Tools     ██████ 30%
 📚 Learning & Research ████ 20%
-<div align="center">
-https://github.com/Dusha01/Dusha01/blob/output/github-contribution-grid-snake.svg
-
-<p>⭐️ Feel free to star repositories if you find them interesting!</p></div>
 ```
+
+<div align="center">
+
+![GitHub Contribution Snake](https://github.com/Dusha01/Dusha01/blob/output/github-contribution-grid-snake.svg)
+
+<p>⭐️ Feel free to star repositories if you find them interesting!</p>
+
+</div>
+
