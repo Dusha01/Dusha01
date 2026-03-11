@@ -2,9 +2,8 @@
   <img src="static/header.png" alt="Header" width="100%" />
 </div>
 
-<p align="center"><code>──── ◆ ────</code></p>
+<p align="center"><code>──── † ────</code></p>
 
-<h1 align="center">Andrew</h1>
 <h3 align="center">Full Stack Developer & Telegram Bot Specialist</h3>
 
 <p align="center">
@@ -21,9 +20,9 @@
   
 </div>
 
-<p align="center"><code>── ── ──</code></p>
+<p align="center"><code>──── † ────</code></p>
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -66,9 +65,9 @@
 
 </div>
 
-<p align="center"><code>── ── ──</code></p>
+<p align="center"><code>──── † ────</code></p>
 
-### Featured Projects
+<h3 align="center">Featured Projects</h3>
 
 <div align="center">
 
@@ -76,7 +75,7 @@
 Telegram bot for university community — real-time schedule, notifications, academic resources.
 
 <p>
-  <a href="https://t.me/dvgupsSchedule_bot" target="_blank">
+  <a href="https://t.me/FreeDVGUPS_bot" target="_blank">
     <img src="https://img.shields.io/badge/Live_Bot-@dvgupsSchedule__bot-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="University Schedule Bot"/>
   </a>
 </p>
@@ -97,9 +96,9 @@ Telegram bot for university community — real-time schedule, notifications, aca
 
 </div>
 
-<p align="center"><code>── ── ──</code></p>
+<p align="center"><code>──── † ────</code></p>
 
-### GitHub Analytics
+<h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
   
@@ -113,7 +112,7 @@ Telegram bot for university community — real-time schedule, notifications, aca
   <br/>
   <br/>
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Dusha01&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=FFFFFF&currStreakLabel=E6EDF3&dates=8B949E)
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Dusha01&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=FFFFFF&currStreakLabel=E6EDF3&dates=8B949E" alt="GitHub Streak" />
   
   <br/>
   
@@ -123,19 +122,21 @@ Telegram bot for university community — real-time schedule, notifications, aca
 
 </div>
 
-<p align="center"><code>── ── ──</code></p>
+<p align="center"><code>──── † ────</code></p>
 
-### GitHub Trophies
+<h3 align="center">GitHub Trophies</h3>
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Dusha01&theme=dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dusha01&theme=dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="trophy" />
+  </a>
   
 </div>
 
-<p align="center"><code>── ── ──</code></p>
+<p align="center"><code>──── † ────</code></p>
 
-### Get In Touch
+<h3 align="center">Get In Touch</h3>
 
 <div align="center">
 
@@ -169,11 +170,11 @@ Telegram bot for university community — real-time schedule, notifications, aca
     <img src="https://img.shields.io/badge/Clean_Code-000000?style=flat-square&logoColor=white" />
   </p>
   
-  <p align="center"><code>── ◆ ──</code></p>
+  <p align="center"><code>── † ──</code></p>
   
 </div>
 
-### Weekly Development Breakdown
+<h3 align="center">Weekly Development Breakdown</h3>
 
 ```text
 Svelte & Frontend  ████████████ 60%
