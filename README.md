@@ -124,13 +124,11 @@ Telegram bot for university community — real-time schedule, notifications, aca
 
 <p align="center"><code>──── † ────</code></p>
 
-<h3 align="center">GitHub Trophies</h3>
+<h3 align="center">Productive Time</h3>
 
 <div align="center">
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dusha01&theme=dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="trophy" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dusha01&theme=nord_dark&utcOffset=3" alt="Productive Time" />
   
 </div>
 
