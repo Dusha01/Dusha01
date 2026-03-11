@@ -112,7 +112,7 @@ Telegram bot for university community — real-time schedule, notifications, aca
   <br/>
   <br/>
   
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Dusha01&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=FFFFFF&currStreakLabel=E6EDF3&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=Dusha01&theme=dark&hide_border=true" alt="GitHub Streak" />
   
   <br/>
   
@@ -128,7 +128,7 @@ Telegram bot for university community — real-time schedule, notifications, aca
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dusha01&theme=nord_dark&utcOffset=3" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dusha01&theme=nord_dark" alt="Productive Time" />
   
 </div>
 
