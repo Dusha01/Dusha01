@@ -80,14 +80,22 @@ Telegram bot for university community — real-time schedule, notifications, aca
   </a>
 </p>
 
-<div align="left">
-
-**Key Features:**
-- Real-time Schedule — instant access to class timetables
-- Smart Notifications — automated reminders and updates
-- Multi-user Support — scalable for entire university community
-- University Integration — customized for academic needs
-- High Performance — fast and reliable 24/7 service
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1; text-align: left;">
+    <strong>Key Features:</strong>
+    <ul style="list-style-position: inside; padding-right: 0;">
+      <li>Real-time Schedule — instant access to class timetables</li>
+      <li>Smart Notifications — automated reminders and updates</li>
+      <li>Multi-user Support — scalable for entire university community</li>
+      <li>University Integration — customized for academic needs</li>
+      <li>High Performance — fast and reliable 24/7 service</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 0 0 auto;">
+    <img src="static/key-features.png" alt="Key Features" width="300" height="auto" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
 
 **Technologies:**
 - `Python` `aiogram` `PostgreSQL` `Docker` `FastAPI`
